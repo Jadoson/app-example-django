@@ -16,3 +16,4 @@
 # запуск приложения
 python3 manage.py runserver
 ```
+test
